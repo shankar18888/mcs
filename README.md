@@ -1,2 +1,2 @@
 # mcs
-mc repo
+mc repo for github demonstration
